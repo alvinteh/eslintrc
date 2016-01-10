@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Alvin Teh <i@alvinteh.me> (http://alvinteh.me)",
   "description": "A variation of AirBNB's JavaScript ESLint config.",
-  "license": "mit",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/alvinteh/eslintrc.git"
