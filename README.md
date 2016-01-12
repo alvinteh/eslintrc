@@ -6,7 +6,7 @@ A variation of AirBNB's ESLint configuration.
 Usage
 -------
 
-Add a `.eslintrc` file to your project which extends `alvinteh`. Exampls as follows:
+Add a `.eslintrc` file to your project which extends `alvinteh`. Example as follows:
 
 ```
 {
