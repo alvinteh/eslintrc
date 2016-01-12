@@ -8,6 +8,7 @@ module.exports = {
   'rules': {
     'comma-dangle': 0,
     'brace-style': [2, 'stroustrup', { 'allowSingleLine': true }],
-    'indent': [2, 2, { 'SwitchCase': 1 }]
+    'indent': [2, 2, { 'SwitchCase': 1 }],
+    'space-before-function-paren': [2, 'never']
   }
 };
