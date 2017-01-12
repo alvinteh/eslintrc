@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alvinteh",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Alvin Teh <i@alvinteh.me> (http://alvinteh.me)",
   "description": "A variation of AirBNB's JavaScript ESLint config.",
   "license": "MIT",
